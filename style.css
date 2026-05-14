@@ -97,3 +97,14 @@ footer {
 main section ul li strong {
   color: var(--color-primary);
 }
+
+/* ===== NAVIGATION LINK STYLING ===== */
+main section a {
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+main section a:hover {
+  text-decoration: underline;
+}
